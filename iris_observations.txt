@@ -1,0 +1,4 @@
+Observations:
+- Iris-setosa generally has the smallest petal length/width.
+- Iris-virginica tends to have the largest values across most features.
+- Iris-versicolor measurements fall in between setosa and virginica.
